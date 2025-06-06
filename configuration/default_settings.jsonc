@@ -1,0 +1,8 @@
+{
+  // Container Use MCP Server Settings
+  // 
+  // The path to the cu binary is optional. If not provided,
+  // the extension will look for cu in your PATH.
+  //
+  // "cu_path": "/path/to/cu"
+}
