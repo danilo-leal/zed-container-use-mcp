@@ -1,7 +1,7 @@
-id = "container-use-mcp"
+id = "mcp-server-container-use"
 name = "Container Use MCP Server"
-description = "Containerized environments for coding agents."
-version = "0.1.0"
+description = "An extension for the container-use MCP server, which provides containerized environments for coding agents."
+version = "0.0.1"
 schema_version = 1
 authors = ["Agus Zubiaga <agus@zed.dev>", "Danilo Leal <danilo@zed.dev>"]
 repository = "https://github.com/danilo-leal/zed-container-use-mcp"
